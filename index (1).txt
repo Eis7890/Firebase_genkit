@@ -1,0 +1,30 @@
+﻿Edit
+  Cancel 
+Login Accounts - Demo FaaS Account    
+
+         Directory: sales.gsc-cloud.com* 
+  UserName: primecominc  Password:primecominc123! Copy Username To Clipboard...
+ Copy Password To Clipboard...
+Bottom of Form
+Notes 
+Instructions: Please logon with Config Tool to change the federation configuration to point to the site you need to federate.
+In Config Tool, go to "System" then "Roles" and you should see a federation role that is down (red). Click on that federation role and go to the "properties" tab and change Directory, username and password from the site you need to federate. Once the role is up and synchronized, you could load the Security Desk application and be able to see federated cameras.
+
+
+Let me know if you need more help.
+
+Thanks,
+Georges Roukos
+Inside Sales Engineer
+
+Genetec Inc. • Intelligence • Operations • Security 
+P:+1-514-332-4000 x6477  • M: +1-514-567-6100 • insidesalesengineering@genetec.com
+
+*  Changes (1) 
+Top of Form
+Bottom of Form
+
+ 
+Created: 8/24/2018 9:40:05 AM
+Tyler GrahamLast Modified: 4/13/2020 7:40:49 AM
+Tyler GrahamAccount - Demo FaaS Account - Prime Communications, Inc. 
